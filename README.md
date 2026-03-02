@@ -35,12 +35,6 @@ MySQL | MongoDB | SQLite | DynamoDB
 
 - 🔹 Large Language Models (LLMs) Architecture  
 - 🔹 Retrieval-Augmented Generation (RAG) Systems  
-- 🔹 AI System Design & Model Deployment  
-- 🔹 ML Model Monitoring & Evaluation Metrics  
-- 🔹 Vector Databases & Embedding Pipelines  
-- 🔹 MLOps Fundamentals  
-- 🔹 Kubernetes for AI Workloads  
-- 🔹 Distributed Systems for Scalable AI  
 
 ---
 
