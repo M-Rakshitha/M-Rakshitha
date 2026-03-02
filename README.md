@@ -3,17 +3,9 @@
 🎓 MS in Computer Science @ George Washington University
 💻 Aspiring Software Engineer  
 
-I build intelligent systems that combine **AI + Cloud + Scalable Backend Architectures**.  
-I enjoy turning complex problems into clean, production-ready solutions.
+I genuinely enjoy building things that make sense — whether that’s a machine learning model, a backend system, or a full-stack AI app. 
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently building AI-powered full-stack applications  
-- 🤖 Interested in Machine Learning, NLP, and AI system design   
-
----
+----
 
 ## 💻 Tech Stack
 
